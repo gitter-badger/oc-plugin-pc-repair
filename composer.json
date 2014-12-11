@@ -2,7 +2,7 @@
 	"name": "alexcarrega/oc-plugin-pc-repair",
 	"description": "Pc-Repair.it di Dott. Enrico Ciliberti (http://www.pc-repair.it) Plugin for OctoberCMS",
 	"type": "library",
-	"keywords": ["october", "cms", "plugin", "axc", "pc-repair", "settings"],
+	"keywords": ["october", "cms", "plugin", "axc", "pc", "repair", "settings"],
 	"homepage": "http://www.alexcarrega.com/p/oc-plugin-pc-repair",
 	"license": "Apache-2.0",
 	"authors": [
