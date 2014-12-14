@@ -10,6 +10,6 @@
  * @var array
  */
 $component_lang = [
-	'name' => 'Seldac',
+	'name' => 'PcRepair',
 	'description' => 'Setting data'
 ];
